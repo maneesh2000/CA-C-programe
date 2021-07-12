@@ -1,0 +1,62 @@
+/*
+ ============================================================================
+ Name        : arrayfuntion16.c
+ Author      : maneesh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+	int array[100],limit;
+
+getarray();
+
+
+	return EXIT_SUCCESS;
+}
+
+
+
+void getarray(int limit,int num){
+
+
+	printf("Enter your value of array:");
+
+	scanf("%d",&limit);
+
+	for(num=0;num<limit;num++){
+
+		scanf("%d",&num);
+
+
+	}
+
+
+
+}
+
+
+void display(int num,int limit){
+
+
+	for(num=0;num<limit;num++){
+
+			printf("%d",&num);
+
+
+		}
+
+
+
+
+
+
+
+}
+

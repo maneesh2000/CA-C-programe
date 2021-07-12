@@ -1,0 +1,476 @@
+11:38:18 **** Incremental Build of configuration Debug for project PatternPrograme2 ****
+make all 
+make: Nothing to be done for 'all'.
+11:38:23 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+Building file: ../src/patterprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patterprograme.d" -MT"src/patterprograme.o" -o "src/patterprograme.o" "../src/patterprograme.c"
+Finished building: ../src/patterprograme.c
+ 
+Building target: patterprograme
+Invoking: GCC C Linker
+gcc  -o "patterprograme"  ./src/patterprograme.o   
+Finished building target: patterprograme
+ 
+11:41:10 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+make: Nothing to be done for 'all'.
+11:41:16 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+make: Nothing to be done for 'all'.
+11:41:23 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+make: Nothing to be done for 'all'.
+11:42:10 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+Building file: ../src/patterprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patterprograme.d" -MT"src/patterprograme.o" -o "src/patterprograme.o" "../src/patterprograme.c"
+Finished building: ../src/patterprograme.c
+ 
+Building target: patterprograme
+Invoking: GCC C Linker
+gcc  -o "patterprograme"  ./src/patterprograme.o   
+Finished building target: patterprograme
+ 
+11:43:05 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+Building file: ../src/patterprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patterprograme.d" -MT"src/patterprograme.o" -o "src/patterprograme.o" "../src/patterprograme.c"
+Finished building: ../src/patterprograme.c
+ 
+Building target: patterprograme
+Invoking: GCC C Linker
+gcc  -o "patterprograme"  ./src/patterprograme.o   
+Finished building target: patterprograme
+ 
+11:43:27 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+Building file: ../src/patterprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patterprograme.d" -MT"src/patterprograme.o" -o "src/patterprograme.o" "../src/patterprograme.c"
+Finished building: ../src/patterprograme.c
+ 
+Building target: patterprograme
+Invoking: GCC C Linker
+gcc  -o "patterprograme"  ./src/patterprograme.o   
+Finished building target: patterprograme
+ 
+11:43:52 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+make: Nothing to be done for 'all'.
+11:44:21 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+Building file: ../src/patterprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patterprograme.d" -MT"src/patterprograme.o" -o "src/patterprograme.o" "../src/patterprograme.c"
+Finished building: ../src/patterprograme.c
+ 
+Building target: patterprograme
+Invoking: GCC C Linker
+gcc  -o "patterprograme"  ./src/patterprograme.o   
+Finished building target: patterprograme
+ 
+11:45:00 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+Building file: ../src/patterprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patterprograme.d" -MT"src/patterprograme.o" -o "src/patterprograme.o" "../src/patterprograme.c"
+Finished building: ../src/patterprograme.c
+ 
+Building target: patterprograme
+Invoking: GCC C Linker
+gcc  -o "patterprograme"  ./src/patterprograme.o   
+Finished building target: patterprograme
+ 
+11:45:21 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+Building file: ../src/patterprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patterprograme.d" -MT"src/patterprograme.o" -o "src/patterprograme.o" "../src/patterprograme.c"
+Finished building: ../src/patterprograme.c
+ 
+Building target: patterprograme
+Invoking: GCC C Linker
+gcc  -o "patterprograme"  ./src/patterprograme.o   
+Finished building target: patterprograme
+ 
+11:47:11 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+Building file: ../src/patterprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patterprograme.d" -MT"src/patterprograme.o" -o "src/patterprograme.o" "../src/patterprograme.c"
+Finished building: ../src/patterprograme.c
+ 
+Building target: patterprograme
+Invoking: GCC C Linker
+gcc  -o "patterprograme"  ./src/patterprograme.o   
+Finished building target: patterprograme
+ 
+11:47:47 **** Incremental Build of configuration Debug for project patterprograme ****
+make all 
+Building file: ../src/patterprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patterprograme.d" -MT"src/patterprograme.o" -o "src/patterprograme.o" "../src/patterprograme.c"
+Finished building: ../src/patterprograme.c
+ 
+Building target: patterprograme
+Invoking: GCC C Linker
+gcc  -o "patterprograme"  ./src/patterprograme.o   
+Finished building target: patterprograme
+ 
+22:56:30 **** Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+22:56:37 **** Build of configuration Debug for project patterprograme ****
+make all 
+Building file: ../src/patterprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patterprograme.d" -MT"src/patterprograme.o" -o "src/patterprograme.o" "../src/patterprograme.c"
+Finished building: ../src/patterprograme.c
+ 
+Building target: patterprograme
+Invoking: GCC C Linker
+gcc  -o "patterprograme"  ./src/patterprograme.o   
+Finished building target: patterprograme
+ 
+23:01:20 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+make: Nothing to be done for 'all'.
+23:05:48 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+23:07:16 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+23:13:00 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+../src/PatternPrograme3.c: In function ‘main’:
+../src/PatternPrograme3.c:16:18: warning: unused variable ‘l’ [-Wunused-variable]
+   16 |  int limit,i,j,k,l;
+      |                  ^
+../src/PatternPrograme3.c:16:16: warning: unused variable ‘k’ [-Wunused-variable]
+   16 |  int limit,i,j,k,l;
+      |                ^
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+23:13:33 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+23:13:39 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+make: Nothing to be done for 'all'.
+23:14:21 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+23:15:32 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+23:16:02 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+23:16:56 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+23:17:53 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+23:18:20 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+23:20:01 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+Building file: ../src/PatternPrograme3.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme3.d" -MT"src/PatternPrograme3.o" -o "src/PatternPrograme3.o" "../src/PatternPrograme3.c"
+Finished building: ../src/PatternPrograme3.c
+ 
+Building target: PatternPrograme3
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme3"  ./src/PatternPrograme3.o   
+Finished building target: PatternPrograme3
+ 
+08:21:19 **** Incremental Build of configuration Debug for project PatternPrograme3 ****
+make all 
+make: Nothing to be done for 'all'.
+08:32:04 **** Build of configuration Debug for project PatternPrograme4 ****
+make all 
+Building file: ../src/PatternPrograme4.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme4.d" -MT"src/PatternPrograme4.o" -o "src/PatternPrograme4.o" "../src/PatternPrograme4.c"
+Finished building: ../src/PatternPrograme4.c
+ 
+Building target: PatternPrograme4
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme4"  ./src/PatternPrograme4.o   
+Finished building target: PatternPrograme4
+ 
+08:32:12 **** Incremental Build of configuration Debug for project PatternPrograme4 ****
+make all 
+make: Nothing to be done for 'all'.
+08:33:33 **** Incremental Build of configuration Debug for project PatternPrograme4 ****
+make all 
+Building file: ../src/PatternPrograme4.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme4.d" -MT"src/PatternPrograme4.o" -o "src/PatternPrograme4.o" "../src/PatternPrograme4.c"
+Finished building: ../src/PatternPrograme4.c
+ 
+Building target: PatternPrograme4
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme4"  ./src/PatternPrograme4.o   
+Finished building target: PatternPrograme4
+ 
+08:38:27 **** Incremental Build of configuration Debug for project PatternPrograme4 ****
+make all 
+make: Nothing to be done for 'all'.
+08:40:03 **** Incremental Build of configuration Debug for project PatternPrograme4 ****
+make all 
+Building file: ../src/PatternPrograme4.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme4.d" -MT"src/PatternPrograme4.o" -o "src/PatternPrograme4.o" "../src/PatternPrograme4.c"
+Finished building: ../src/PatternPrograme4.c
+ 
+Building target: PatternPrograme4
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme4"  ./src/PatternPrograme4.o   
+Finished building target: PatternPrograme4
+ 
+08:40:35 **** Incremental Build of configuration Debug for project PatternPrograme4 ****
+make all 
+Building file: ../src/PatternPrograme4.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme4.d" -MT"src/PatternPrograme4.o" -o "src/PatternPrograme4.o" "../src/PatternPrograme4.c"
+Finished building: ../src/PatternPrograme4.c
+ 
+Building target: PatternPrograme4
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme4"  ./src/PatternPrograme4.o   
+Finished building target: PatternPrograme4
+ 
+08:41:33 **** Incremental Build of configuration Debug for project PatternPrograme4 ****
+make all 
+Building file: ../src/PatternPrograme4.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme4.d" -MT"src/PatternPrograme4.o" -o "src/PatternPrograme4.o" "../src/PatternPrograme4.c"
+Finished building: ../src/PatternPrograme4.c
+ 
+Building target: PatternPrograme4
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme4"  ./src/PatternPrograme4.o   
+Finished building target: PatternPrograme4
+ 
+08:42:10 **** Incremental Build of configuration Debug for project PatternPrograme4 ****
+make all 
+make: Nothing to be done for 'all'.
+08:59:27 **** Incremental Build of configuration Debug for project PatternPrograme4 ****
+make all 
+make: Nothing to be done for 'all'.
+09:00:28 **** Incremental Build of configuration Debug for project PatternPrograme4 ****
+make all 
+make: Nothing to be done for 'all'.
+09:17:31 **** Build of configuration Debug for project PatternPrograme5 ****
+make all 
+Building file: ../src/PatternPrograme5.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme5.d" -MT"src/PatternPrograme5.o" -o "src/PatternPrograme5.o" "../src/PatternPrograme5.c"
+../src/PatternPrograme5.c: In function ‘main’:
+../src/PatternPrograme5.c:20:12: error: invalid operands to binary & (have ‘char *’ and ‘int’)
+   20 |  scanf("%d"&limit);
+      |        ~~~~^
+      |        |
+      |        char *
+make: *** [src/subdir.mk:20: src/PatternPrograme5.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+09:19:31 **** Incremental Build of configuration Debug for project PatternPrograme5 ****
+make all 
+Building file: ../src/PatternPrograme5.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme5.d" -MT"src/PatternPrograme5.o" -o "src/PatternPrograme5.o" "../src/PatternPrograme5.c"
+Finished building: ../src/PatternPrograme5.c
+ 
+Building target: PatternPrograme5
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme5"  ./src/PatternPrograme5.o   
+Finished building target: PatternPrograme5
+ 
+09:19:37 **** Incremental Build of configuration Debug for project PatternPrograme5 ****
+make all 
+make: Nothing to be done for 'all'.
+09:35:35 **** Incremental Build of configuration Debug for project PatternPrograme5 ****
+make all 
+Building file: ../src/PatternPrograme5.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme5.d" -MT"src/PatternPrograme5.o" -o "src/PatternPrograme5.o" "../src/PatternPrograme5.c"
+Finished building: ../src/PatternPrograme5.c
+ 
+Building target: PatternPrograme5
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme5"  ./src/PatternPrograme5.o   
+Finished building target: PatternPrograme5
+ 
+09:35:42 **** Incremental Build of configuration Debug for project PatternPrograme5 ****
+make all 
+Building file: ../src/PatternPrograme5.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme5.d" -MT"src/PatternPrograme5.o" -o "src/PatternPrograme5.o" "../src/PatternPrograme5.c"
+Finished building: ../src/PatternPrograme5.c
+ 
+Building target: PatternPrograme5
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme5"  ./src/PatternPrograme5.o   
+Finished building target: PatternPrograme5
+ 
+09:37:15 **** Incremental Build of configuration Debug for project PatternPrograme5 ****
+make all 
+Building file: ../src/PatternPrograme5.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme5.d" -MT"src/PatternPrograme5.o" -o "src/PatternPrograme5.o" "../src/PatternPrograme5.c"
+Finished building: ../src/PatternPrograme5.c
+ 
+Building target: PatternPrograme5
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme5"  ./src/PatternPrograme5.o   
+Finished building target: PatternPrograme5
+ 
+09:37:33 **** Incremental Build of configuration Debug for project PatternPrograme5 ****
+make all 
+make: Nothing to be done for 'all'.
+09:38:04 **** Incremental Build of configuration Debug for project PatternPrograme5 ****
+make all 
+Building file: ../src/PatternPrograme5.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme5.d" -MT"src/PatternPrograme5.o" -o "src/PatternPrograme5.o" "../src/PatternPrograme5.c"
+Finished building: ../src/PatternPrograme5.c
+ 
+Building target: PatternPrograme5
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme5"  ./src/PatternPrograme5.o   
+Finished building target: PatternPrograme5
+ 
+09:38:42 **** Incremental Build of configuration Debug for project PatternPrograme5 ****
+make all 
+Building file: ../src/PatternPrograme5.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme5.d" -MT"src/PatternPrograme5.o" -o "src/PatternPrograme5.o" "../src/PatternPrograme5.c"
+Finished building: ../src/PatternPrograme5.c
+ 
+Building target: PatternPrograme5
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme5"  ./src/PatternPrograme5.o   
+Finished building target: PatternPrograme5
+ 
+10:00:43 **** Incremental Build of configuration Debug for project PatternPrograme5 ****
+make all 
+Building file: ../src/PatternPrograme5.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/PatternPrograme5.d" -MT"src/PatternPrograme5.o" -o "src/PatternPrograme5.o" "../src/PatternPrograme5.c"
+Finished building: ../src/PatternPrograme5.c
+ 
+Building target: PatternPrograme5
+Invoking: GCC C Linker
+gcc  -o "PatternPrograme5"  ./src/PatternPrograme5.o   
+Finished building target: PatternPrograme5
+ 
+23:12:45 **** Incremental Build of configuration Debug for project PatternPrograme5 ****
+make all 
+make: Nothing to be done for 'all'.

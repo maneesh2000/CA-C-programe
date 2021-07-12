@@ -1,0 +1,136 @@
+08:37:16 **** Incremental Build of configuration Debug for project patternprograme ****
+make all 
+Building file: ../src/patternprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patternprograme.d" -MT"src/patternprograme.o" -o "src/patternprograme.o" "../src/patternprograme.c"
+../src/patternprograme.c: In function ‘main’:
+../src/patternprograme.c:17:9: error: stray ‘\342’ in program
+   17 |  printf(“Enter the number of rows : “);
+      |         ^
+../src/patternprograme.c:17:10: error: stray ‘\200’ in program
+   17 |  printf(“Enter the number of rows : “);
+      |          ^
+../src/patternprograme.c:17:11: error: stray ‘\234’ in program
+   17 |  printf(“Enter the number of rows : “);
+      |           ^
+../src/patternprograme.c:17:12: error: ‘Enter’ undeclared (first use in this function)
+   17 |  printf(“Enter the number of rows : “);
+      |            ^~~~~
+../src/patternprograme.c:17:12: note: each undeclared identifier is reported only once for each function it appears in
+../src/patternprograme.c:17:17: error: expected ‘)’ before ‘the’
+   17 |  printf(“Enter the number of rows : “);
+      |                 ^~~~
+      |                 )
+../src/patternprograme.c:17:39: error: stray ‘\342’ in program
+   17 |  printf(“Enter the number of rows : “);
+      |                                       ^
+../src/patternprograme.c:17:40: error: stray ‘\200’ in program
+   17 |  printf(“Enter the number of rows : “);
+      |                                        ^
+../src/patternprograme.c:17:41: error: stray ‘\234’ in program
+   17 |  printf(“Enter the number of rows : “);
+      |                                         ^
+../src/patternprograme.c:18:8: error: stray ‘\342’ in program
+   18 |  scanf(“%d”,&n);
+      |        ^
+../src/patternprograme.c:18:9: error: stray ‘\200’ in program
+   18 |  scanf(“%d”,&n);
+      |         ^
+../src/patternprograme.c:18:10: error: stray ‘\234’ in program
+   18 |  scanf(“%d”,&n);
+      |          ^
+../src/patternprograme.c:18:11: error: expected expression before ‘%’ token
+   18 |  scanf(“%d”,&n);
+      |           ^
+../src/patternprograme.c:18:13: error: stray ‘\342’ in program
+   18 |  scanf(“%d”,&n);
+      |             ^
+../src/patternprograme.c:18:14: error: stray ‘\200’ in program
+   18 |  scanf(“%d”,&n);
+      |              ^
+../src/patternprograme.c:18:15: error: stray ‘\235’ in program
+   18 |  scanf(“%d”,&n);
+      |               ^
+../src/patternprograme.c:23:9: error: stray ‘\342’ in program
+   23 |  printf(“%d “,k);
+      |         ^
+../src/patternprograme.c:23:10: error: stray ‘\200’ in program
+   23 |  printf(“%d “,k);
+      |          ^
+../src/patternprograme.c:23:11: error: stray ‘\234’ in program
+   23 |  printf(“%d “,k);
+      |           ^
+../src/patternprograme.c:23:12: error: expected expression before ‘%’ token
+   23 |  printf(“%d “,k);
+      |            ^
+../src/patternprograme.c:23:15: error: stray ‘\342’ in program
+   23 |  printf(“%d “,k);
+      |               ^
+../src/patternprograme.c:23:16: error: stray ‘\200’ in program
+   23 |  printf(“%d “,k);
+      |                ^
+../src/patternprograme.c:23:17: error: stray ‘\234’ in program
+   23 |  printf(“%d “,k);
+      |                 ^
+../src/patternprograme.c:27:9: error: stray ‘\342’ in program
+   27 |  printf(“%d “,l);
+      |         ^
+../src/patternprograme.c:27:10: error: stray ‘\200’ in program
+   27 |  printf(“%d “,l);
+      |          ^
+../src/patternprograme.c:27:11: error: stray ‘\234’ in program
+   27 |  printf(“%d “,l);
+      |           ^
+../src/patternprograme.c:27:12: error: expected expression before ‘%’ token
+   27 |  printf(“%d “,l);
+      |            ^
+../src/patternprograme.c:27:15: error: stray ‘\342’ in program
+   27 |  printf(“%d “,l);
+      |               ^
+../src/patternprograme.c:27:16: error: stray ‘\200’ in program
+   27 |  printf(“%d “,l);
+      |                ^
+../src/patternprograme.c:27:17: error: stray ‘\234’ in program
+   27 |  printf(“%d “,l);
+      |                 ^
+../src/patternprograme.c:29:9: error: stray ‘\342’ in program
+   29 |  printf(“\n”);
+      |         ^
+../src/patternprograme.c:29:10: error: stray ‘\200’ in program
+   29 |  printf(“\n”);
+      |          ^
+../src/patternprograme.c:29:11: error: stray ‘\234’ in program
+   29 |  printf(“\n”);
+      |           ^
+../src/patternprograme.c:29:12: error: stray ‘\’ in program
+   29 |  printf(“\n”);
+      |            ^
+../src/patternprograme.c:29:14: error: stray ‘\342’ in program
+   29 |  printf(“\n”);
+      |              ^
+../src/patternprograme.c:29:15: error: stray ‘\200’ in program
+   29 |  printf(“\n”);
+      |               ^
+../src/patternprograme.c:29:16: error: stray ‘\235’ in program
+   29 |  printf(“\n”);
+      |                ^
+../src/patternprograme.c:29:13: warning: passing argument 1 of ‘printf’ makes pointer from integer without a cast [-Wint-conversion]
+   29 |  printf(“\n”);
+      |             ^
+      |             |
+      |             int
+In file included from ../src/patternprograme.c:11:
+/usr/include/stdio.h:332:43: note: expected ‘const char * restrict’ but argument is of type ‘int’
+  332 | extern int printf (const char *__restrict __format, ...);
+      |                    ~~~~~~~~~~~~~~~~~~~~~~~^~~~~~~~
+../src/patternprograme.c:29:2: warning: format not a string literal and no format arguments [-Wformat-security]
+   29 |  printf(“\n”);
+      |  ^~~~~~
+../src/patternprograme.c:16:8: warning: unused variable ‘j’ [-Wunused-variable]
+   16 |  int i,j,k,l,n;
+      |        ^
+make: *** [src/subdir.mk:20: src/patternprograme.o] Error 1
+"make all" terminated with exit code 2. Build might be incomplete.
+
+08:37:16 Build Failed. 37 errors, 3 warnings. (took 163ms)
+

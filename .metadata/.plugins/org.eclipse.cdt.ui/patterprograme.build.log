@@ -1,0 +1,15 @@
+22:56:37 **** Build of configuration Debug for project patterprograme ****
+make all 
+Building file: ../src/patterprograme.c
+Invoking: GCC C Compiler
+gcc -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/patterprograme.d" -MT"src/patterprograme.o" -o "src/patterprograme.o" "../src/patterprograme.c"
+Finished building: ../src/patterprograme.c
+ 
+Building target: patterprograme
+Invoking: GCC C Linker
+gcc  -o "patterprograme"  ./src/patterprograme.o   
+Finished building target: patterprograme
+ 
+
+22:56:37 Build Finished. 0 errors, 0 warnings. (took 213ms)
+

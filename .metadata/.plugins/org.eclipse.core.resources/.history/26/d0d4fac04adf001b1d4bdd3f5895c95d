@@ -1,0 +1,66 @@
+/*
+ ============================================================================
+ Name        : PatternPrograme3.c
+ Author      : maneesh
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void) {
+
+	int limit,i,j,k,l;
+
+
+
+	printf(" Enter limit: ");
+
+	scanf("%d",&limit);
+
+	for(i=1;i<=limit;i++){
+
+		for(j=1;j<=i;j++){
+
+			printf("*");
+
+
+
+		}
+
+
+
+
+	}
+
+
+	for(k=limit-1;k>=1;k--){
+
+
+		for(l=1;l<=k;l++){
+
+			printf("*");
+
+
+
+
+		}
+
+		printf("\n");
+
+
+	}
+
+
+
+
+
+
+
+
+
+	return EXIT_SUCCESS;
+}
